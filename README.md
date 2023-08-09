@@ -1,5 +1,5 @@
 
-# Dot.Files    <img alt="Stargazers" src="https://img.shields.io/github/stars/i-is-evil-duck/dot.files?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+# Dot.Files  <br />  <img alt="Stargazers" src="https://img.shields.io/github/stars/i-is-evil-duck/dot.files?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
 
 
 ### My custom DotFiles (I'm still working on it)
